@@ -1,5 +1,6 @@
 ---
 title:  "BBC宇宙纪录片"
+avatar: "assets/images/3.jpg"
 image: "assets/images/1.jpg"
 ---
 
